@@ -1,2 +1,2 @@
 # GNL
-GuEe POSIX 64bit OS kernel
+GuEe POSIX 64-bit OS kernel
